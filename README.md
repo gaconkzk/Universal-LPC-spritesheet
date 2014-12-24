@@ -5,7 +5,7 @@ An attempt to consolidate all of the humanoid entries from the Liberated Pixel C
 
 Online Version
 ==============
-Guarav0 Has created an online version of the Universal Sprite Sheet, located at http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator
+I Has created an online version of the Universal Sprite Sheet, located at http://sprite-generator.herokuapp.com/
 
 Abbreviations
 =============
@@ -38,3 +38,8 @@ If you'd like to help out, please do so!  I've worked with @joewhite to hammer o
  - Edit the .png files, not the .xcf.  Once the pull is merged, a maintainer (@makrohn) will fold the .png files into the .xcf
  - For hairstyles, you can create a few small images, and then generate the spritesheets from them. See [EditingHair](EditingHair.md).
  - As with code, try to keep pull requests grouped thematically - eg, "skintonefixes" "suitandtie" "blackshoes" so they can be evaluated separately.
+
+### Status
+
+#### 24-12-2014
+- Update README.md for repository
